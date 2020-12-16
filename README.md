@@ -30,16 +30,15 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### UI
 
-![UI](https://github.com/fpro-feup/public/blob/master/recitas/ui.png)
+
 
 ### Pacotes
 
-- Pygame
+- Pygame, math, copy, random
 
 ### Tarefas
 
-1. carregar os níveis
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. colocar os jogadores no local de partida
+1. ler teclas, mover os jogadores e ativar interações
+2. verificar qual foi o jogador vencedor
 
