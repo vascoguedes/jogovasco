@@ -23,9 +23,10 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+É um jogo de "battle royale". Podem jogar entre 1 e 3 jogadores no mesmo computador acompanhados por 3 a 5 "bots".
+No mapa é possível encontrar poderes que aparecem no mapa aleatoriamente sendo que deixam de estar ativos quando é utilizado por algum dos jogadores.
+Também existem diversas armas (espada e broca). A espada permite atacar a curta distância e a broca permite destruir algumas paredes quando ativa.
+Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o último vivo.
 
 ### UI
 
@@ -42,4 +43,3 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 1. ler teclas e mover as peças
 2. verificar se jogador chegou ao fim do nível
 
-- Atualizado a última vez em 07/12/2020
