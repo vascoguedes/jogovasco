@@ -11,7 +11,7 @@
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
+1) Link para o repositório do GitHub: https://github.com/vascoguedes/jogovasco
 
 2) Adicionar, como colaborador com permissão de leitura (*role read*), o Prof. da prática:
 
@@ -30,7 +30,7 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### UI
 
-![https://github.com/vascoguedes/jogovasco/blob/main/UI.png]
+https://github.com/vascoguedes/jogovasco/blob/main/UI.png
 
 ### Pacotes
 
