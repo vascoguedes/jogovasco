@@ -30,7 +30,7 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### UI
 
-https://github.com/vascoguedes/jogovasco/blob/main/UI.png
+![https://github.com/vascoguedes/jogovasco/blob/main/UI.png]
 
 ### Pacotes
 
