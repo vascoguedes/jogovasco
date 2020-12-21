@@ -23,7 +23,7 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### Pacotes
 
-- Pygame, math, copy, random
+- Pygame, math, copy, random, pygame.locals
 
 ### Tarefas
 
