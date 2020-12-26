@@ -19,7 +19,7 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### UI
 
-![UI](UI.jpg)
+![UI](UI.png)
 
 ### Pacotes
 
