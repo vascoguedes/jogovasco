@@ -9,13 +9,18 @@ Jogo baseado no jogo [Knight Squad](https://store.steampowered.com/app/294000/Kn
 
 ### Descrição
 
-É um jogo de "battle royale". Podem jogar entre 1 e 3 jogadores no mesmo computador acompanhados por 3 a 5 "bots".
+É um jogo de "battle royale". Desenvolvido para 2 jogadores no mesmo computador.
 
-No mapa é possível encontrar poderes que aparecem no mapa aleatoriamente sendo que deixam de estar ativos quando é utilizado por algum dos jogadores.
+Existem diversas armas (espada, arco e broca). A espada permite atacar a curta distância (e a média distância quando-se ataca), a broca permite destruir algumas paredes quando ativada e o arco que dispara quando ativado. Tanto a espada como o arco podem ser evoluídos (3 níveis possíveis) sendo que com cada evolução a arma fica mais forte (tira mais vida) e no caso do arco permite que se dispare mais flechas de cada vez.
 
-Também existem diversas armas (espada e broca). A espada permite atacar a curta distância e a broca permite destruir algumas paredes quando ativa.
-
-Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o último vivo.
+No mapa é possível encontrar poderes que aparecem no mapa aleatoriamente sendo que desaparecem quando um utilizador os recolhe.
+Poderes:
+  vida extra (coração): recupera vida
+  varinha: permite atravessar paredes sem as destruir (durante um período de tempo)
+  poção: fica invensível (durante um período de tempo)
+  escudo: fica com o escudo até ser atacado e quando é atacado não perde vida
+  
+Um jogador mata o outro jogador quando a vida do segundo fica a zero. Ganha o que ganhar mais partidas (de três)
 
 ### UI
 
