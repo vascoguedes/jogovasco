@@ -27,8 +27,4 @@ Um jogador mata o outro quando a sua arma colide com outro jogador. Ganha o últ
 
 ### Tarefas
 
-1. [ ] colocar os jogadores no local de partida
-1. [ ] ler teclas, mover os jogadores
-1. [ ] colisões entre jogadores
-1. [ ] desenhar obstáculos e colisões entre jogadores e obstáculos
-1. [ ] verificar qual foi o jogador vencedor
+Finalizado
