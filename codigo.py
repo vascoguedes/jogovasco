@@ -591,7 +591,7 @@ def jogo(a, b, c):
                         rot_image1 = pygame.transform.scale(roda(brocacores, ang), ((40, 40) if efeitopocao[np] > 0 else (34, 34)))
                         
                         if arma == 2:
-                            if pygame.key.get_pressed()[pygame.K_UP] or pygame.key.get_pressed()[pygame.K_w]:
+                            if (pygame.key.get_pressed()[pygame.K_UP] and np == 1) or (pygame.key.get_pressed()[pygame.K_w] and np == 0):
                                 musicabroca.play()
                                 screen.blit(rot_image1, (x3, y3))
                             else:
@@ -871,4 +871,8 @@ while jogar == 1:
                     lo1 = 1
                     jogar = 0
                 
+        
+        
+        
+# corrigir tempo de cooldown
 pygame.quit()
